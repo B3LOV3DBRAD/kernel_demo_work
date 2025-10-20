@@ -21,7 +21,7 @@ export async function GET(request: Request) {
       env: 'LOCAL',
       verbose: 1,
       domSettleTimeoutMs: 30_000,
-      modelName: 'openai/gpt-4.1',
+      modelName: 'gpt-4o',
       modelClientOptions: {
         apiKey: process.env.OPENAI_API_KEY
       },

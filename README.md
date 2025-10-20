@@ -4,7 +4,7 @@ This project is a small experiment using the Kernel SDK and Stagehand to build a
 
 ---
 
-## What I Did
+## Work Done
 - Built a Next.js API route that connects to Kernel and Stagehand  
 - Used GPT-4o to interpret and extract relevant article links  
 - Tested requests locally with Postman and verified structured JSON responses  
